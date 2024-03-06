@@ -1,0 +1,59 @@
+{
+	"companies": [
+		{
+			"id": 1,
+			"name": "Tech Innovations Inc.",
+			"status": true,
+			"about": "Leading technology company specializing in innovation and development.",
+			"site": "https://www.techinnovations.com",
+			"country": "United States",
+			"business_activity": "Information Technology",
+			"nv_program": "Tech Accelerator Program",
+			"nv_years": "2022"
+		},
+		{
+			"id": 2,
+			"name": "Marketing Agency Pro",
+			"status": true,
+			"about": "Full-service marketing agency specializing in digital marketing and branding.",
+			"site": "https://www.marketingagencypro.com",
+			"country": "Spain",
+			"business_activity": "Marketing",
+			"nv_program": "Marketing Bootcamp",
+			"nv_years": "2017, 2018, 2019"
+		},
+		{
+			"id": 3,
+			"name": "GreenTech Solutions Co.",
+			"status": true,
+			"about": "Environmental technology company focused on sustainability and green initiatives.",
+			"site": "https://www.greentechsolutions.com",
+			"country": "Australia",
+			"business_activity": "Environmental Services",
+			"nv_program": "Environmental Impact Program",
+			"nv_years": "2019, 2021"
+		},
+		{
+			"id": 4,
+			"name": "Healthcare Providers Ltd.",
+			"status": true,
+			"about": "Healthcare organization committed to providing quality medical services.",
+			"site": "https://www.healthcareproviders.com",
+			"country": "United Kingdom",
+			"business_activity": "Healthcare",
+			"nv_program": "Health Innovation Program",
+			"nv_years": "2020, 2021"
+		},
+		{
+			"id": 5,
+			"name": "Finance Solutions LLC",
+			"status": true,
+			"about": "Financial services company providing solutions for businesses and individuals.",
+			"site": "https://www.financesolutions.com",
+			"country": "Canada",
+			"business_activity": "Finance",
+			"nv_program": "Business Incubator Program",
+			"nv_years": "2018, 2019"
+		}
+	]
+}
