@@ -9,7 +9,8 @@
 			"country": "United States",
 			"business_activity": "Information Technology",
 			"nv_program": "Tech Accelerator Program",
-			"nv_years": "2022"
+			"nv_years": "2022",
+			"image": "https://i.ibb.co/KXXf0pV/Tech-Innovations-Inc.png"
 		},
 		{
 			"id": 2,
@@ -20,7 +21,8 @@
 			"country": "Spain",
 			"business_activity": "Marketing",
 			"nv_program": "Marketing Bootcamp",
-			"nv_years": "2017, 2018, 2019"
+			"nv_years": "2017, 2018, 2019",
+			"image": "https://i.ibb.co/Z1CJXS5/Marketing-Agency-Pro.png"
 		},
 		{
 			"id": 3,
@@ -31,7 +33,8 @@
 			"country": "Australia",
 			"business_activity": "Environmental Services",
 			"nv_program": "Environmental Impact Program",
-			"nv_years": "2019, 2021"
+			"nv_years": "2019, 2021",
+			"image": "https://i.ibb.co/qrKBpRz/Green-Tech-Solutions-Co.png"
 		},
 		{
 			"id": 4,
@@ -42,7 +45,8 @@
 			"country": "United Kingdom",
 			"business_activity": "Healthcare",
 			"nv_program": "Health Innovation Program",
-			"nv_years": "2020, 2021"
+			"nv_years": "2020, 2021",
+			"image": "https://i.ibb.co/FzTSngB/Healthcare-Providers-Ltd.png"
 		},
 		{
 			"id": 5,
@@ -53,7 +57,8 @@
 			"country": "Canada",
 			"business_activity": "Finance",
 			"nv_program": "Business Incubator Program",
-			"nv_years": "2018, 2019"
+			"nv_years": "2018, 2019",
+			"image": "https://i.ibb.co/bb6r5FJ/Finance-Solutions-LLC.png"
 		}
 	]
 }
