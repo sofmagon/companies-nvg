@@ -8,8 +8,20 @@
 			"site": "https://www.techinnovations.com",
 			"country": "United States 🇺🇸",
 			"business_activity": "Information Technology",
-			"nv_program": "Tech Accelerator Program",
-			"nv_years": "2022",
+			"nv_programs": [
+				{
+					"name": "Tech Accelerator Program 01",
+					"year": "2024"
+				},
+				{
+					"name": "Tech Accelerator Program 02",
+					"year": "2023"
+				},
+				{
+					"name": "Tech Accelerator Program 03",
+					"year": "2022"
+				}
+			],
 			"image": "https://i.ibb.co/KXXf0pV/Tech-Innovations-Inc.png"
 		},
 		{
@@ -20,8 +32,16 @@
 			"site": "https://www.marketingagencypro.com",
 			"country": "Spain 🇪🇸",
 			"business_activity": "Marketing",
-			"nv_program": "Marketing Bootcamp",
-			"nv_years": "2017, 2018, 2019",
+			"nv_programs": [
+				{
+					"name": "Tech Accelerator Program 04",
+					"year": "2018"
+				},
+				{
+					"name": "Tech Accelerator Program 05",
+					"year": "2016"
+				}
+			],
 			"image": "https://i.ibb.co/Z1CJXS5/Marketing-Agency-Pro.png"
 		},
 		{
@@ -32,8 +52,20 @@
 			"site": "https://www.greentechsolutions.com",
 			"country": "Australia 🇦🇺",
 			"business_activity": "Environmental Services",
-			"nv_program": "Environmental Impact Program",
-			"nv_years": "2019, 2021",
+			"nv_programs": [
+				{
+					"name": "Tech Accelerator Program 06",
+					"year": "2014"
+				},
+				{
+					"name": "Tech Accelerator Program 07",
+					"year": "2013"
+				},
+				{
+					"name": "Tech Accelerator Program 08",
+					"year": "2012"
+				}
+			],
 			"image": "https://i.ibb.co/qrKBpRz/Green-Tech-Solutions-Co.png"
 		},
 		{
@@ -44,8 +76,16 @@
 			"site": "https://www.healthcareproviders.com",
 			"country": "United Kingdom 🇬🇧",
 			"business_activity": "Healthcare",
-			"nv_program": "Health Innovation Program",
-			"nv_years": "2020, 2021",
+			"nv_programs": [
+				{
+					"name": "Tech Accelerator Program 09",
+					"year": "2001"
+				},
+				{
+					"name": "Tech Accelerator Program 10",
+					"year": "2002"
+				}
+			],
 			"image": "https://i.ibb.co/FzTSngB/Healthcare-Providers-Ltd.png"
 		},
 		{
@@ -56,8 +96,20 @@
 			"site": "https://www.financesolutions.com",
 			"country": "Canada 🇨🇦",
 			"business_activity": "Finance",
-			"nv_program": "Business Incubator Program",
-			"nv_years": "2018, 2019",
+			"nv_programs": [
+				{
+					"name": "Tech Accelerator Program 11",
+					"year": "2008"
+				},
+				{
+					"name": "Tech Accelerator Program 12",
+					"year": "2010"
+				},
+				{
+					"name": "Tech Accelerator Program 13",
+					"year": "2012"
+				}
+			],
 			"image": "https://i.ibb.co/bb6r5FJ/Finance-Solutions-LLC.png"
 		}
 	]
